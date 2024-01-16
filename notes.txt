@@ -1,0 +1,1 @@
+untracked files are the files that  git doeasn't know about them so we need track the files before saving them to git. TO track the files we use "git add ."(. indicates that all the files which are untracked and modified section should be tracked) command.
